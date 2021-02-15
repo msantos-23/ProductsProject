@@ -1,0 +1,22 @@
+.button {
+    background-color: #00a2ff56;
+}
+
+.card-section{
+    background-color: #F5B7B1;
+}
+
+.text {
+    font-size: 1rem;
+    text-align: center;
+}
+
+h2{
+    color: #1178b4;
+    background-color: #f5b7b146;
+}
+
+.container-fluid{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
